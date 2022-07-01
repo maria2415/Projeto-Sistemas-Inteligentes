@@ -1,0 +1,104 @@
+Índice,Projeto,EUS,Estimativa
+1,Projeto 1,"Como usuário, quero consultar os horários disponiveis, para que eu possa agendar de acordo com a minha disponibilidade.",2
+2,Projeto 1,"Como usuário, quero consultar os modelos de cortes realizados pelo estabelecimento, para que possa estar realizando um corte de acordo com minha escolha.",2
+3,Projeto 1,"Como usuário, quero analisar o tempo médio de cada trabalho realizado, para que possa estar agendando de acordo com minha disponibilidade.",3
+4,Projeto 1,"Como usuário, quero consultar todos os pacotes promocionais, para que possa estar verificando a possibilidade de estar adquirindo um pacote com desconto promocional.",2
+5,Projeto 1,"Como usuário, quero consultar a localização do estabelecimento para que possa estar me dirigindo ao local com exatidão.",3
+6,Projeto 1,"Como usuário, quero saber qual o profissional que irá realizar o procedimento de corte de cabelo.",2
+7,Projeto 1,"Como usuário, quero consultar todos os valores de cada serviço para assim estar realizando o pagamento no dia do procedimento.",2
+8,Projeto 1,"Como usuário, quero consultar todas as formas disponíveis para pagamento pela barbearia.",2
+9,Projeto 2,"Como usuário, quero consultar todas as formas disponíveis para pagamento pela barbearia.",2
+10,Projeto 2,"Como usuário DBA, quero cadastrar clientes, para que eu possa relacionar seus bancos de dados.",5
+11,Projeto 2,"Como usuário DBA, quero cadastrar bancos de dados, para que seja realizado o monitoramento desse banco.",5
+12,Projeto 2,"Como usuário DBA, quero cadastrar usuários, para que outros usuários possam acessar a ferramenta de monitoramento.",5
+13,Projeto 2,"Como usuário DBA, quero relacionar usuários e clientes, para que usuários de cliente tenham acesso a ferramenta de monitoramento e tenham acesso apenas aos bancos relacionados ao cliente.",5
+14,Projeto 2,"Como usuário DBA, preciso receber alerta de indisponibilidade de todos os bancos de dados, para que eu esteja ciente da indisponibilidade.",3
+15,Projeto 2,"Como usuário de cliente, preciso receber alerta de indisponibilidade de meus bancos de dados, para que eu esteja ciente da indisponibilidade",3
+16,Projeto 2,"Como usuário DBA, quero consultar o histórico de indisponibilidade de todos os bancos de dados, para que eu possa gerar um relatório e encaminhar a empresa.",4
+17,Projeto 3,"Como usuário, desejo consultar as vagas disponíveis mais próximas, para que não haja desperdício de tempo.",2
+18,Projeto 3,"Como usuário, quero consultar as vagas disponíveis do Shopping.",2
+19,Projeto 3,"Como usuário, espero ver todos os locais que possuem estacionamento cadastrado e disponível no aplicativo.",3
+20,Projeto 3,"Como usuário, desejo cadastrar o estacionamento do meu “comércio”, para que esteja visível aos usuários do aplicativo.",5
+21,Projeto 3,"Como usuário, desejo receber notificações quando o aplicativo identificar uma vaga livre em um local específico.",4
+22,Projeto 3,"Como usuário, desejo buscar vagas para todos os tipos veículos, como: (Motos, ônibus, caminhões, etc...)",3
+23,Projeto 3,"Como usuário, desejo informar que irei desocupar a vaga que eu estava ocupando até agora.",5
+24,Projeto 3,"Como usuário, desejo marcar a vaga desejada e utilizar o GPS para traçar uma rota até a mesma.",6
+25,Projeto 4,"Como usuário, desejo consultar os estabelecimentos disponíveis na minha região.",2
+26,Projeto 4,"Como usuário, desejo consultar todos os produtos disponíveis em cada supermercado cadastrado.",2
+27,Projeto 4,"Como usuário, desejo ir selecionando e separando os produtos que desejo realizar a compra.",3
+28,Projeto 4,"Como usuário, preciso saber as formas disponíveis para realizar o pagamento do meu pedido.",3
+29,Projeto 4,"Como usuário, quero selecionar o local de entrega para as minhas compras.",2
+30,Projeto 4,"Como usuário, desejo escolher a data e período do dia para entrega da minha compra.",2
+31,Projeto 4,"Como usuário, após selecionar os produtos, forma de pagamento e local para entrega desejo finalizar a minha compra.",3
+32,Projeto 4,"Como usuário, desejo cadastrar endereços para usar como local de entrega.",4
+33,Projeto 5,"Como vendedor, quero gerar orçamento de peças e serviços, para poder negociar vendas com clientes.",5
+34,Projeto 5,"Como vendedor, quero abrir ordens de serviços, para controlar as peças aplicadas e serviços executados nos veículos dentro da empresa.",6
+35,Projeto 5,"Como estoquista, quero cadastrar produtos, para ter controle de estoque, custos e preços de venda.",5
+36,Projeto 5,"Como estoquista, quero gerar cotações de preços, para encontrar o menor preço para compra dos produtos.",5
+37,Projeto 5,"Como financeiro, quero gerar boletos bancários, para receber pelos serviços prestados.",5
+38,Projeto 5,"Como financeiro, quero importar o arquivo de retorno bancário, para não ter que fazer a baixa manual, um a um dos boletos liquidados.",4
+39,Projeto 5,"Como recursos humanos, quero importar os registros de cartão ponto dos colaboradores, para gerar relatórios dos colaboradores com menor absenteísmo.",4
+40,Projeto 5,"Como diretor, quero cadastrar os colaboradores com acesso ao sistema, para poder definir os diferentes grupos de usuário e as permissões de acesso de cada grupo.",3
+41,Projeto 6,"Como usuário, quero consultar os conteúdos que preciso estudar até a data do Enem, para saber qual será preciso ter maior foco.",2
+42,Projeto 6,"Como usuário, quero consultar como está o meu desempenho nos simulados, para poder ter uma base do quanto ainda preciso estudar.",2
+43,Projeto 6,"Como usuário, quero consultar os simulados que já foram realizados e suas respectivas notas, para autoavaliação.",2
+44,Projeto 6,"Como usuário, desejo consultar o cronograma preparado pelo aplicativo, para poder me organizar durante a semana.",3
+45,Projeto 6,"Como usuário, desejo realizar simulados para me preparar para o dia da prova.",5
+46,Projeto 6,"Como usuário, desejo que eu possa marcar no aplicativo os conteúdos já vistos, para possuir uma visão ampla de quantos ainda preciso estudar.",3
+47,Projeto 6,"Como usuários, desejo receber alertas diários do aplicativo de quantos dias faltam para o Enem, para ter o controle de dias ainda existentes para estudo.",7
+48,Projeto 6,"Como usuário, deseja visualizar os dados que inseri na hora do cadastro, para conferir se ainda permanecem os mesmos.",2
+49,Projeto 7,"Como novo usuário, gostaria de poder salvar minhas informações em uma conta privada.",2
+50,Projeto 7,"Como usuário, gostaria de cadastrar, editar ou deletar uma rotina na qual estarão contidas atividades específicas da mesma.",4
+51,Projeto 7,"Como usuário, quero incluir, editar ou deletar uma atividade incluída em uma rotina.",5
+52,Projeto 7,"Como usuário, criei uma rotina de atividades e gostaria de compartilhar com outras pessoas.",7
+53,Projeto 7,"Como usuário não sei quais atividades incluir na minha rotina, então gostaria de pesquisar rotinas compartilhadas e importar as que desejo para meu app.",4
+54,Projeto 7,"Como usuário, gostaria de ter recomendações de rotinas para meu perfil, para poder importar rotinas próximas às minhas.",5
+55,Projeto 7,"Como usuário, seria de grande interesse, poder curtir atividades de amigos, e assim melhorar recomendações de rotina feitas a mim.",4
+56,Projeto 7,"Como usuário, gostaria de marcar atividades como realizadas, assim saber como está o andamento do meu cronograma.",6
+57,Projeto 8,"Como usuário, quero me cadastrar no aplicativo, para que eu me atualize quanto a contaminação por vírus na área comercial local.",5
+58,Projeto 8,"Como usuário, quero logar no sistema, para ter acesso a todos os recursos do aplicativo.",2
+59,Projeto 8,"Como usuário, quero permitir que o sistema registre meu deslocamento, para que o mesmo informe os proprietários dos comércios que frequentei caso eu esteja contaminado.",4
+60,Projeto 8,"Como usuário, quero informar ao aplicativo meus status de saúde, para cooperar na identificação de locais contaminados.",8
+61,Projeto 8,"Como usuário, quero ser notificado quanto ao status de contaminação do comércio local, para reconhecer as áreas com menores e maiores riscos.",9
+62,Projeto 8,"Como usuário, quero receber diagnósticos com base no meu feedback semanal, para identificar se estou possivelmente contaminado por vírus.",9
+63,Projeto 8,"Como usuário, quero poder compartilhar gráficos fornecidos pelo app em outras plataformas, para alertar meus contatos quanto ao percentual de contaminação local.",9
+64,Projeto 8,"Como empreendedor, quero ser notificado quanto à necessidade de higienização do meu comércio, para evitar a disseminação do vírus agilmente.",8
+65,Projeto 9,"Como usuário, quero consultar a minha biblioteca, para que eu posso encontra o jogo que quero jogar.",2
+66,Projeto 9,"Como usuário, quero fazer login para ter acesso a opção de consultar a minha biblioteca de jogos.",2
+67,Projeto 9,"Como usuário, quero que na minha biblioteca, apareçam todos os jogos que eu já possuo em outra plataforma.",2
+68,Projeto 9,"Como usuário, quero vincular as contas de outras plataformas com a biblioteca para que  a biblioteca tenha acesso aos jogos disponíveis destas plataformas.",3
+69,Projeto 9,"Como usuário, quero fazer login para que a minha biblioteca tenha acesso os jogos da plataforma em que estou efetuando login.",2	
+71,Projeto 9,"Como usuário, quero poder criar coleções, dar nome a elas, e adicionar qualquer jogo que eu tenha na biblioteca nestas coleções que estarão disponíveis em uma biblioteca de coleções.",6
+72,Projeto 9,"Como usuário, quero der duas opções de como meus jogos irão ser apresentados na biblioteca, em forma de ícones e nomes ou em forma de lista e nomes.",6
+73,Projeto 10,"Como usuário, quero me cadastrar no aplicativo, para que eu me atualize quanto a contaminação por vírus na área comercial local.",2
+74,Projeto 10,"Como usuário, quero logar no sistema, para ter acesso a todos os recursos do aplicativo.",2
+75,Projeto 10,"Como usuário, quero permitir que o sistema registre meu deslocamento, para que o mesmo informe os proprietários dos comércios que frequentei caso eu esteja contaminado.",3
+76,Projeto 10,"Como usuário, quero informar ao aplicativo meus status de saúde, para cooperar na identificação de locais contaminados.",4
+77,Projeto 10,"Como usuário, quero ser notificado quanto ao status de contaminação do comércio local, para reconhecer as áreas com menores e maiores riscos.",9
+78,Projeto 10,"Como usuário, quero receber diagnósticos com base no meu feedback semanal, para identificar se estou possivelmente contaminado por vírus.",8
+79,Projeto 10,"Como usuário, quero poder compartilhar gráficos fornecidos pelo app em outras plataformas, para alertar meus contatos quanto ao percentual de contaminação local.",9
+80,Projeto 10,"Como empreendedor, quero ser notificado quanto à necessidade de higienização do meu comércio, para evitar a disseminação do vírus agilmente.",8
+81,Projeto 11,"Como usuário, quero poder checar as rotas dos ônibus para que eu possa saber onde vou, caso resolva pegá-lo.",4
+82,Projeto 11,"Como usuário, quero poder consultar o menu para ter acesso a todas as funcionalidades do aplicativo.",2
+83,Projeto 11,"Como usuário, quero poder checar o tempo que o ônibus levará para chegar no ponto/terminal de ônibus onde estou, para assim melhor me programar.",4
+84,Projeto 11,"Como usuário, quero poder checar o tempo de atraso em relação a previsão inicial de chegada do ônibus, para assim melhor me programar.",5
+85,Projeto 11,"Como usuário, quero poder saber a localização atual do ônibus, para que assim possa saber o quão perto ou longe o mesmo está.",7
+86,Projeto 11,"Como usuário, quero poder comprar a passagem do ônibus pelo aplicativo, facilitando assim meu dia a dia, e possibilitando o uso imediato do transporte público.",6
+87,Projeto 11,"Como usuário, quero poder avaliar os motoristas de ônibus para que futuramente tenha uma melhor viagem .",4
+88,Projeto 11,"Como usuário, quero poder me cadastrar na plataforma para facilitar o meu acesso a mesma, podendo comprar passagens, ver históricos de ônibus os quais utilizei.",5
+89,Projeto 12,"Como técnico, quero consultar o menu, para que eu possa encontrar a peça que desejo comprar, para realizar o conserto.",2
+90,Projeto 12,"Como técnico, quero realizar um cadastro para ter acesso ao sistema de compra e venda das peças",5
+91,Projeto 12,"Como vendedor, quero realizar o cadastro do produto no estoque para que a compra do pretendido seja realizada.",5
+92,Projeto 12,"Como técnico, quero comprovar com cnpj e certificado de cnpj que realmente trabalho com consertos de aparelhos celulares.",5
+93,Projeto 12,"Como vendedor, quero informar quantidade de peças que foram vendidas para serem enviadas ao comprador/técnico.",5
+94,Projeto 12,"Como comprador, quero avaliar o vendedor após a compra para deixar registrado no perfil do vendedor a nota.",2
+95,Projeto 12,"Como comprador, quero realizar o pagamento no sistema, para que o produto possa ser enviado.",5
+96,Projeto 12,"Como comprador, quero inserir a minha localização, para o sistema filtrar os fornecedores que enviam, para minha região.",4
+97,Projeto 13,"Como usuário, quero criar uma conta, para que eu curtir e salvar musicas.",4
+98,Projeto 13,"Como usuário, quero poder curtir musicas e playlists, para poder aumentar a popularidade dela e mostrar que gostei dela.",3
+99,Projeto 13,"Como usuário, quero poder logar em minha conta, pra poder gerenciar as musicas.",2
+100,Projeto 13,"Como usuário, quero poder escolher a categoria de musica e playlists, para que eu possa ouvir a musica ou playlist que desejo.",3
+101,Projeto 13,"Como usuário, quero poder escolher a música que quero ouvir.",3
+102,Projeto 13,"Como usuário, quero poder criar minhas próprias playlists, para que eu e outras pessoas possamos ouvi-las.",5
+103,Projeto 13,"Como usuário, quero poder escolher uma playlist, para que eu possa ouvi-la.",3
+104,Projeto 13,"Como usuário, quero poder escolher a opção de criar radio, para que eu possa escutar músicas similares a que escolhi",3
